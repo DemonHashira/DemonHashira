@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goal of the year is to become a full fledget dev. 
+- 🥅 Goal of the year is to become a full fledged dev. 
 - ⚡ My most favorite leisure activity is reading books.
 
 ---
