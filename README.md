@@ -13,6 +13,7 @@
 
 [<img src="https://www.transparentpng.com/thumb/logo-instagram/z75gfy-instagram-logo-png.png" alt="instagram logo png @transparentpng.com" width="26px" style="padding-right:50px">](https://www.instagram.com/viktor_kamisama/)
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/WalkerMarianCross/)
+[<img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn" width="26px">](https://www.linkedin.com/in/viktor-logodazhki-286336229/)
 
 ---
 
