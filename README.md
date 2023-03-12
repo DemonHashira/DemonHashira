@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/Viktor Logodazhki](https://www.linkedin.com/in/viktor-logodazhki-286336229/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor logodazhki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viktor-logodazhki-286336229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor logodazhki" height="30" width="40" /></a>
 <a href="https://fb.com/viktorlogodazhki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viktorlogodazhki" height="30" width="40" /></a>
 <a href="https://instagram.com/viktor_kamisama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viktor_kamisama" height="30" width="40" /></a>
 </p>
