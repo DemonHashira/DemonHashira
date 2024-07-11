@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">An enthusiastic Software Engineer from Bulgaria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demonhashira&label=Profile%20views&color=0e75b6&style=flat" alt="demonhashira" /> </p>
 
