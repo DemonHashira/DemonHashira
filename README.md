@@ -1,4 +1,3 @@
-![Header](./git-header-3.gif)
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">An enthusiastic Software Engineer from Bulgaria</h3>
 
