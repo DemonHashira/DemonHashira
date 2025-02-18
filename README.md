@@ -7,13 +7,14 @@
 - 🌱 I'm majoring in **Computer Science** and **Information Systems* at **American University in Bulgaria (AUBG)**
 - 💻 Currently working as **Junior Front-End Developer** at **Weband**
 - 👨‍🏫 Vice President of **The Hub AUBG**
+- ⚡ Something about me: I love to read any kind of books (LN mostly)
 
 ---
 
 ### Connect with me:
 
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/viktor_kamisama/)
-<a href="https://www.linkedin.com/in/viktorlogodazhki/">
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:150px">](https://www.instagram.com/viktor_kamisama/)
+<a href="https://www.linkedin.com/in/viktorlogodazhki/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24">
 </a>
 
