@@ -1,11 +1,11 @@
 # Hi there, I'm Viktor 👋 
 
-## I'm a Junior Front-End Developer
+## I'm a Web Developer
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I'm majoring in **Computer Science** and **Information Systems** at **American University in Bulgaria (AUBG)**
-- 💻 Currently working as **Junior Front-End Developer** at **Weband**
+- 💻 Currently working as **Web Developer (Front-end)** at **Weband**
 - ⚡ Something about me: I love to read any kind of books (LN mostly)
 
 ---
