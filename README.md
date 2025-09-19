@@ -6,6 +6,7 @@
 
 - 🌱 I'm majoring in **Computer Science** and **Information Systems** at **American University in Bulgaria (AUBG)**
 - 💻 Currently working as **Web Developer (Front-end)** at **Weband**
+- 👨‍🏫 I'm a senior at **AUBG (American University in Bulgatia)**
 - ⚡ Something about me: I love to read any kind of books (LN mostly)
 
 ---
