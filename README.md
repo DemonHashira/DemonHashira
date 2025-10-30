@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 - 🌱 I'm majoring in **Computer Science** and **Information Systems** at **American University in Bulgaria (AUBG)**
 - 💻 Currently working as **Web Developer (Front-end)** at **Weband**
