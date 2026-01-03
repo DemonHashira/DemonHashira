@@ -45,7 +45,13 @@
 
 ### ⚡ GitHub Stats
 
-<div>
-  <img height="160" align="left" alt="Viktors's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DemonHashira&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonHashira&layout=compact&bg_color=09131B&hide_border=true" />
-</div>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DemonHashira&show_icons=true&theme=tokyonight&hide_border=true&v=2026"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonHashira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2026"
+    height="165"
+  />
+</p>
