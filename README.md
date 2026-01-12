@@ -42,16 +42,3 @@
 <br />
 
 ---
-
-### ⚡ GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DemonHashira&show_icons=true&theme=tokyonight&hide_border=true&v=2026"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonHashira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2026"
-    height="165"
-  />
-</p>
